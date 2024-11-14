@@ -1,0 +1,9 @@
+disabled_rules:
+  - trailing_whitespace
+included:
+  - Catinder # Paths to include in the linting
+line_length:
+  warning: 2000
+  error: 220
+  ignores_comments: true
+  ignores_interpolated_strings: true
